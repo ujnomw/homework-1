@@ -1,0 +1,9 @@
+{
+  "number": 1,
+  "string": "test",
+  "boolean": false,
+  "object": {
+    "property": "123"
+  },
+  "null": null
+}
